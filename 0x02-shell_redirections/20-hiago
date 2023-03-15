@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 tr -d "cC"
 =======
 #!/bin/bash
 echo "Chicago" | tr -d ‘cC’
 >>>>>>> f171d49bdc2d443f1c5136af0789ce60146bccce
+=======
+
+#!/bin/bash
+tr -d "cC"
+>>>>>>> efd94b2e5fd8f61ea66877be64e07e0b41fd7782
