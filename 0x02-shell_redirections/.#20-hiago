@@ -1,1 +1,2 @@
-root@c1e4b4307a2d.1358
+#!/bin/bash
+tr -d "cC"
